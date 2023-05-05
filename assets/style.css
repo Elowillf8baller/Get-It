@@ -176,7 +176,7 @@
 }
 
 .nav__logo{
-  width: 70px;
+  width: 90px;
 }
 
 .nav__toggle{
@@ -221,3 +221,216 @@
 }
 
 /* home */
+/* #home{
+  background-image: url(./img/Group\ 4.png);
+width: 100vw;
+height: 100vh;
+  background-size: center;
+  object-fit: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
+
+.home__title{
+ font-weight: var(--font-bold);
+ font-size: var(--bigger-font-size);
+ text-align: center;
+}
+.under__line{
+  width: 50vw;
+  height: 1vh;
+  background-color: #141414;
+  border-radius: 4px;
+ 
+}
+.pls__flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub__text{
+  font-weight: var(--font-bold);
+  font-size: 15px;
+  text-align: center;
+  margin-top: 14px;
+}
+.first__col{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+ 
+
+}
+.second__col{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+
+}
+.col__1{
+  background-color: #8aecc5;
+  width: 20vw;
+  height: 9vh;
+  margin-right: 20px;
+  margin-left: 100px;
+  border-radius: 5px;
+
+}
+.col__2{
+  background-color: #8aecc5;
+  width: 20vw;
+  height: 9vh;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+.col__3{
+  background-color: #8aecc5;
+  width: 22vw;
+  height: 9vh;
+  margin-right: 100px;
+  border-radius: 5px;
+}
+.col__4{
+  background-color: #8aecc5;
+  width: 20vw;
+  height: 9vh;
+  margin-right: 14px;
+  border-radius: 5px;
+
+}
+.col__5{
+  background-color: #8aecc5;
+  width: 24vw;
+  height: 9vh;
+ 
+  border-radius: 5px;
+}
+.in__text{
+  /* text-align: center; */
+  font-size:13px;
+  font-weight: var(--font-bold);
+  margin-top: 11px;
+  margin-left: 5px;
+}
+.let__span{
+  display: flex;
+}
+.more__text{
+  margin-left: 5px;
+  font-weight: var(--font-bold);
+}
+.get__tem{
+  background-color: black;
+  width: 40vw;
+  height: 4vh;
+  margin-top: 40px;
+  border-radius: 5px;
+}
+.just__flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.free__tem{
+  color: white;
+  text-align: center;
+}
+.three__lines{
+  width: 30px;
+  position: absolute;
+  bottom: 136px;
+  left: 115px;
+}
+
+/* about */
+.about__title{
+  text-align: center;
+
+}
+.about__titlef{
+  text-align: center;
+  font-size:40px;
+  color: #297e5c;
+-webkit-text-fill-color: transparent;
+-webkit-text-stroke-width: 2px ;
+padding: 0;
+margin: 0;
+
+}
+.about__titleg{
+  text-align: center;
+  font-size: 50px;
+  color: #297e5c;
+}
+.about__us{
+  margin: 0;
+  padding: 0;
+}
+.about__gist{
+  text-align: center;
+  font-size: 11px;
+}
+.about__img{
+  width: 295px;
+  
+}
+.about__flex{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 14px;
+}
+
+.water__color{
+width: 300px;
+margin-top: 11px;
+}
+.find__them{
+  width: 400px;
+  margin-top: 30px;
+}
+.fin__them{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.service__title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sevices{
+  background-color: #297e5c;
+  color: white;
+  padding: 1px;
+  border-radius: 4px;
+  font-size: 30px;
+}
+.our{
+  font-size: 30px;
+}
+.first__icol{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second__icol{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.furst{
+  margin-right: 80px;
+ margin-bottom: 19px;
+}
+.ted{
+  margin-right: 80px;
+}
+.fif{
+  margin-right: 90px;
+}
+.sev{
+  margin-right: 80px;
+}
